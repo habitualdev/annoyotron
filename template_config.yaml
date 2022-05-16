@@ -1,0 +1,7 @@
+RefreshTime: 60
+Users:
+  - Username:
+    Password:
+    KeyFile:
+    Hosts:
+      - localhost
